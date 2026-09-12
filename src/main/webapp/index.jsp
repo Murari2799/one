@@ -45,7 +45,6 @@
         a {
             color: inherit;
             text-decoration: none
-            color: inherit;
         }
 
         .container {
